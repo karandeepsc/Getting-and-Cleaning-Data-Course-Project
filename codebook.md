@@ -1,6 +1,6 @@
 ## Code Book
 
-For UCIHAR data, the following cariables are set from run_analysis.R.  See the [README](README.md) for additional details.
+For UCI HAR data, the following cariables are set from run_analysis.R.  See the [README](README.md) for additional details.
 
 ### Tidy Mean
 
